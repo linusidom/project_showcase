@@ -43,6 +43,16 @@ const data = [
         titleThai: 'React การพัฒนาเต็มกอง',
         category:'tutorial',
     },
+    {
+        id: 5,
+        netlifyLink:'https://spotskillz-tours-project.netlify.app/',
+        youtubeLink:'https://www.youtube.com/watch?v=KlPRXYNmW2E',
+        githubLink:'https://github.com/linusidom/coding101/tree/main/reactIntro/tours_project_redone',
+        imageLink:'../assets/ToursProject.png',
+        title: 'Tours Project',
+        titleThai: 'โครงการทัวร์',
+        category:'basic',
+    },
     
 
 ]
