@@ -35,7 +35,7 @@ const data = [
     },
     {
         id: 4,
-        netlifyLink:'',
+        netlifyLink:'https://www.youtube.com/watch?v=_fUR0Hf2BsE&list=PLA_Vc1i8J5NKpMca85O13d8vXd1Vm9Q9G',
         youtubeLink:'https://www.youtube.com/watch?v=_fUR0Hf2BsE&list=PLA_Vc1i8J5NKpMca85O13d8vXd1Vm9Q9G',
         githubLink:'https://github.com/linusidom/coding101/tree/main/reactIntro',
         imageLink:'../assets/ReactTutorial.png',
