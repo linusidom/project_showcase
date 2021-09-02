@@ -68,7 +68,7 @@ const data = [
         netlifyLink:'https://spotskillz-firebase-auth.netlify.app/',
         youtubeLink:'https://www.youtube.com/watch?v=sXxDRDaNmFc',
         githubLink:'https://github.com/linusidom/coding101/tree/main/reactIntro/firebase_auth_redux',
-        imageLink:'../assets/ReviewsProject.png',
+        imageLink:'../assets/FirebaseAuth.png',
         title: 'Firebase Authentication',
         titleThai: 'การรับรองความถูกต้องของ Firebase',
         category:'basic',
