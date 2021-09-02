@@ -56,11 +56,21 @@ const data = [
     {
         id: 6,
         netlifyLink:'https://spotskillz-reviews-project.netlify.app/',
-        youtubeLink:'https://www.youtube.com/watch?v=huNkc5oTYkA',
+        youtubeLink:'https://www.youtube.com/watch?v=Ah9musT74Nk',
         githubLink:'https://github.com/linusidom/coding101/tree/main/reactIntro/reviews_project',
         imageLink:'../assets/ReviewsProject.png',
         title: 'Reviews Project',
         titleThai: 'รีวิวโครงการ',
+        category:'basic',
+    },
+    {
+        id: 7,
+        netlifyLink:'https://spotskillz-firebase-auth.netlify.app/',
+        youtubeLink:'https://www.youtube.com/watch?v=sXxDRDaNmFc',
+        githubLink:'https://github.com/linusidom/coding101/tree/main/reactIntro/firebase_auth_redux',
+        imageLink:'../assets/ReviewsProject.png',
+        title: 'Firebase Authentication',
+        titleThai: 'การรับรองความถูกต้องของ Firebase',
         category:'basic',
     },
     
